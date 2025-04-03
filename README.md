@@ -54,11 +54,19 @@ Estrutura do /App.jsx
 - CONTADOR:
   ![image](https://github.com/user-attachments/assets/bb4391c3-da25-4145-9938-a74cca02a696)
 
+/HookContador.jsx
+![image](https://github.com/user-attachments/assets/c6cf33d2-74ae-406a-8dd2-f45d3287d2cd)
+
+
 - Sorteando Mega Sena:
   ![image](https://github.com/user-attachments/assets/4d48ffff-bc3f-4dc4-a825-036b2a6a73ce)
 
 - Sorteando Quina:
   ![image](https://github.com/user-attachments/assets/5a370b84-9f41-4d34-9030-a7449cf8f36a)
+
+/HookMegaSena.jsx - /HookQuina.jsx
+![image](https://github.com/user-attachments/assets/96bdc62a-1920-4c07-af9d-1fcf0739ba34)
+
 
 # RENDERIZANDO:
 
@@ -68,17 +76,30 @@ Estrutura do /App.jsx
 - Renderizando com funções:
   ![image](https://github.com/user-attachments/assets/0cd2c5c5-7059-495f-8fce-d9ec78a7a0cd)
 
+/RenderizaBackOuFront.jsx - /RenderizandoComFuncoes.jsx
+![image](https://github.com/user-attachments/assets/0ca45e39-56a4-49de-8b63-a93f009eae4c)
+
 # TRABALHANDO COM IMAGENS:
 
 ![image](https://github.com/user-attachments/assets/58469594-9d76-4db2-8f84-dac8effe27df)
 
-#USANDO OPERAR TERNÁRIO:
+/TrabalhandoComImagens.jsx
+![image](https://github.com/user-attachments/assets/11c607b6-7ec8-42a5-8e8a-1ebd7cfb6923)
+
+# USANDO OPERAR TERNÁRIO:
 
 ![image](https://github.com/user-attachments/assets/ef88a9f2-84d5-41a8-94ed-5ac3a3fa7981)
 
 ![image](https://github.com/user-attachments/assets/d2252c80-6f5c-44f2-9a42-fc303315a5e1)
 
+/EstaComSono.jsx - EstouConseguindoAprenderReact.jsx
+![image](https://github.com/user-attachments/assets/073ec391-76a2-4f87-b1ba-9b0ed8879b64)
+
+
 # REAPROVEITAMENTO DE COMPONENTES:
 
 ![image](https://github.com/user-attachments/assets/1cb3a296-3c7d-45b4-b092-c8031da21d06)
+
+/Aluno.jsx - /App.jsx
+![image](https://github.com/user-attachments/assets/bcd068f4-45d6-4e42-919e-f7a092111668)
 
