@@ -1,10 +1,11 @@
 import React from 'react'
-import TrabalhandoComImagens from './components/TrabalhandoComImagens'
+
+import Campanha from './components/Campanha'
 
 const App = () => {
   return (
     <div>
-      <TrabalhandoComImagens/>
+        <Campanha mes="novembro"/>
     </div>
   )
 }
