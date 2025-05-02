@@ -103,3 +103,22 @@ Estrutura do /App.jsx
 /Aluno.jsx - /App.jsx
 ![image](https://github.com/user-attachments/assets/bcd068f4-45d6-4e42-919e-f7a092111668)
 
+#EXERCÍCIO DA AULA 05:
+
+Este repositório contém o exercício solicitado na quinta aula de React:
+- Crie uma página que retorne a lista de alunos que a sua API fake está retornando.
+- Retorne esses dados organizados em uma tabela.
+  
+Solução
+- Para solucionar este exercício, primeiro inseri dados de alunos no arquivo db.json, que serve para definir um "banco de dados" fake na aplicação, que será então lido ao rodar o servidor com o comando 'npm run server'
+
+- Nesse processo criamos uma o arquivo db.json para simular o BD, apois isso inserimos no arquivo ListaDeAlunos.jsx que é responsável por buscar os dados da API e renderizá-los:
+![Captura de tela 2025-05-02 170110](https://github.com/user-attachments/assets/30e4d856-b226-40e7-ad1d-a63e50869dc0)
+
+- Abaixo mostra o resultado do arquivo db.json e do arquivo ListaDeAlunos.jsx:
+![image](https://github.com/user-attachments/assets/0cec2ea3-d05d-4359-bbf3-8f7cd23561fb)
+
+- Conclui que esses componente é carregado no componete Pai, App,jsx:
+![image](https://github.com/user-attachments/assets/ec6e19f0-7397-402b-b7cd-5656ffade62d)
+
+
