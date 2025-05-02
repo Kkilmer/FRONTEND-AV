@@ -1,0 +1,29 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "UNIESP reúne grandes nomes do mercado publicitário na Semana da Publicidade 2025",
+            "dataCriacao": "30/04/2025",
+            "texto": "Nos dias 7 e 8 de maio, o UNIESP Centro Universitário, através das coordenações dos cursos de Publicidade e Propaganda e Produção Publicitária, realiza a Semana da Publicidade 2025. Com o tema “Sinestesia: Comunicar é sentir”, a edição de 2025 reunirá importantes nomes do mercado publicitário e da comunicação para troca de experiências e aprendizados através de conteúdos atuais, relevantes e transversais para a atuação profissional."
+        },
+        {
+            "id": 2,
+            "titulo": "UNIESP Centro Universitário divulga datas da Colação de Grau 2025.1",
+            "dataCriacao": "30/04/2025",
+            "texto": "O UNIESP Centro Universitário tem a satisfação de informar que a Cerimônia de Colação de Grau dos formandos do período 2025.1 será realizada nos dias 04 e 06 de agosto de 2025. No dia 04 de agosto, a solenidade será dedicada exclusivamente aos cursos da área da Saúde. Já no dia 06 de agosto, será a vez dos formandos dos demais cursos do Centro Universitário participarem da cerimônia."
+        },
+        {
+            "id": 3,
+            "titulo": "UNIESP concede bolsas de pós-graduação a egressos da Aldeia Vitória",
+            "dataCriacao": "28/04/2025",
+            "texto": "No último sábado (26), o professor Cícero Lacerda, coordenador de Pesquisa, Extensão e Responsabilidade Social do UNIESP Centro Universitário, e a professora Heloysa Helena, coordenadora do Núcleo Acadêmico, estiveram na Aldeia Vitória, no município do Conde, para um encontro com egressos indígenas do povo Tabajara."
+        }
+    ],
+    "dpolgpd": [
+        {
+            "id": 1,
+            "titulo": "Oficial de Proteção de Dados - DPO",
+            "texto": "O Centro Universitário Uniesp atendendo à Lei Geral de Proteção de dados (Lei n. 13.709, de 14 de agosto de 2018) disponibiliza ao público o canal de comunicação dpo@iesp.edu.br para tratamento de assuntos relacionados a este tema. Tal e-mail é um canal permanente entre o público externo e interno que necessite de atendimento aos assuntos que abordem à LGPD. Comprometidos com o cumprimento legal desta atribuição comunicamos ainda que as mensagens eletrônicas enviadas serão respondidas em até 5 dias úteis"
+        }
+    ]
+}

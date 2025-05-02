@@ -3,17 +3,26 @@
         {
             "id": 1,
             "nome": "Miguel Padilha",
-            "email": "miguel@gmail.com"
+            "email": "miguel@gmail.com",
+            "curso": "Banco de dados"
         },
         {
             "id": 2,
             "nome": "Isabelle Padilha",
-            "email": "isabelle@gmail.com"
+            "email": "isabelle@gmail.com",
+            "curso": "Sistemas para internet"
         },
         {
             "id": 3,
             "nome": "Livia Alves",
-            "email": "livia@gmail.com"
+            "email": "livia@gmail.com",
+            "curso": "Engenharia de Software"
+        },
+        {
+            "id": 4,
+            "nome": "paula",
+            "email": "paula@gmail.com",
+            "curso": "Ciências da Computação"
         }
     ]
 }

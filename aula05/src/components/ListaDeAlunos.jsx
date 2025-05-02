@@ -21,6 +21,7 @@ const ListaDeAlunos = () => {
                 <th>Matricula:</th>
                 <th>Nome:</th>
                 <th>Email:</th>
+                <th>Curso</th>
             </thead>
             <tbody>
                 {
@@ -29,10 +30,9 @@ const ListaDeAlunos = () => {
                         <td>{aluno.id}</td>
                         <td>{aluno.nome}</td>
                         <td>{aluno.email}</td>
-
+                        <td>{aluno.curso}</td>
                     </tr>
-                    ))
-                }
+                    ))}
             </tbody>
         </table>
     </div>
